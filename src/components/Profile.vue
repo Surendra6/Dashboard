@@ -1,5 +1,5 @@
 <template>
-  <v-app> Profile </v-app>
+  <v-container class="text-center"><h1>Profile In progress</h1> </v-container>
 </template>
 
 <script>

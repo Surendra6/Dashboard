@@ -10,7 +10,7 @@
           >mdi-information</v-icon
         >
       </template>
-      <span>Click on GO link to explore the applications</span>
+      <span>Click on Visit App link to explore the applications</span>
     </v-tooltip>
 
     <v-btn

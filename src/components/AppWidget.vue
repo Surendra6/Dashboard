@@ -22,7 +22,8 @@
             d-inline-block
             pa-2
           "
-          >GO <v-icon small class="primary--text">mdi-open-in-new</v-icon></a
+          >Visit App
+          <v-icon small class="primary--text">mdi-open-in-new</v-icon></a
         >
         <v-spacer></v-spacer>
         <v-btn icon @click="show = !show">

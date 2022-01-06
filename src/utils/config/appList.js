@@ -4,7 +4,7 @@ const APP_LIST = [
     description:
       "Multi media application showcases the implementation of various media like Video, Audio, Images, Animations etc.,",
     link: "https://surendra6.github.io/multimedia/",
-    techStack: "Vue.js, HTML, CSS",
+    techStack: "Vue.js, Vuetify, HTML, CSS",
     isLive: true,
   },
   {
@@ -12,7 +12,7 @@ const APP_LIST = [
     description:
       "Calculator application showcases the implementation of calculator useful for mathematical calculations",
     link: "https://surendra6.github.io/calculator-vue/",
-    techStack: "Vue.js, HTML, CSS",
+    techStack: "React JS, HTML, CSS",
     isLive: true,
   },
   {
@@ -20,7 +20,7 @@ const APP_LIST = [
     description:
       "Charts application showcases pictorial implementation of statistics like Pie charts, Bar charts, Column charts etc.,",
     link: "https://surendra6.github.io/charts/",
-    techStack: "Vue.js, HTML, CSS",
+    techStack: "Highcharts, Vue.js, Vuetify, HTML, CSS",
     isLive: false,
   },
 ];

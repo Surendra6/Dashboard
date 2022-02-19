@@ -8,6 +8,14 @@ const APP_LIST = [
     isLive: true,
   },
   {
+    name: "Blog Posts",
+    description:
+      "Blog Posts application showcases the list of blog posts retrieved from an API. Each Blog post has random image, blog posts can be filtered through search box. Git Hub link navigates to the code repository",
+    link: "https://surendra6.github.io/blog-posts/",
+    techStack: "ReactJS, Redux, HTML, CSS",
+    isLive: true,
+  },
+  {
     name: "Calculator",
     description:
       "Calculator application showcases the implementation of calculator useful for mathematical calculations",

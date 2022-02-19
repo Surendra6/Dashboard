@@ -38,7 +38,7 @@
             <v-sheet min-height="100vh" rounded="lg" class="pa-4">
               <v-tabs-items v-model="tab">
                 <v-tab-item> <Dashboard /> </v-tab-item>
-                <v-tab-item> <Profile /> </v-tab-item>
+                <!-- <v-tab-item> <Profile /> </v-tab-item> -->
               </v-tabs-items>
             </v-sheet>
           </v-col>
@@ -49,19 +49,20 @@
 </template>
 
 <script>
-import Profile from "./Profile.vue";
+// import Profile from "./Profile.vue";
 import Dashboard from "./Dashboard.vue";
 import USER_DETAILS from "../utils/config/user.js";
 export default {
+  name: "Layout",
   data: () => ({
     USER_DETAILS: USER_DETAILS,
     tab: null,
-    links: ["Dashboard", "Profile"],
+    links: ["Dashboard"],
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
   }),
   components: {
     Dashboard,
-    Profile,
+    // Profile,
   },
 };
 </script>

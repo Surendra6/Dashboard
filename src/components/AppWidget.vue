@@ -45,7 +45,7 @@
 
 <script>
 export default {
-  name: "Profile",
+  name: "AppWidget",
   props: {
     appInfo: {
       type: Object,

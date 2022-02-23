@@ -16,6 +16,14 @@ const APP_LIST = [
     isLive: true,
   },
   {
+    name: "Identify Image",
+    description:
+      "Identify Image app displays images and allows the user to identify whether they think these images look real or not. For each image, the user can choose the feature(s) of the image that make it look non-real, and they can generate a report where the images are grouped together by these features.",
+    link: "https://surendra6.github.io/identify-image/",
+    techStack: "Vue.js, Vuetify, HTML, CSS",
+    isLive: true,
+  },
+  {
     name: "Calculator",
     description:
       "Calculator application showcases the implementation of calculator useful for mathematical calculations",

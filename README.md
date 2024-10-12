@@ -1,13 +1,11 @@
-Dashboard Application
-# React Vite Dashboard Application
+# Dashboard Application
 
 This is a React Vite Dashboard Application built with Tailwind CSS, which showcases a list of various applications. Each application integrates a unique set of features and technologies. The applications are listed below with details about their purpose, technology stack, and live links. Each entry links to live versions of the projects.
 
 ## Features
 
-- **React Vite**: A fast, lightweight development environment for modern front-end applications.
-- **Tailwind CSS**: A utility-first CSS framework for creating highly customizable and responsive designs.
-- **Dashboard**: Displays a list of various applications with descriptions, tech stack, and live demo links.
+- **Git hub link**: Provides access to the Git hub respository of Surendra Gullipalli. Button located at top right corner of the page
+- **Cards**: Each card has information about it's application like description, teck stack used, navigation link to the live application
 
 ## Applications
 
@@ -28,6 +26,12 @@ This is a React Vite Dashboard Application built with Tailwind CSS, which showca
     - **Link**: https://surendra6.github.io/identify-image/
     - **Tech Stack**: Vue.js, Vuetify, HTML, CSS
     - **Status**: Live
+
+4. **CV Builder**
+    - **Description**: Application for building the CV, it's a static application and user data is stored.
+    - **Link**: Not application
+    - **Tech Stack**: ReactJS, React Hooks, Tailwind CSS, HTML
+    - **Status**: Upcoming project, In progress
 
 ## Tech Stack
 

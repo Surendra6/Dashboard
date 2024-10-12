@@ -1,8 +1,8 @@
 const APP_LIST = [
   {
-    name: "Multi media",
+    name: "Multimedia",
     description:
-      "Multi media application showcases the implementation of various media like Video, Audio, Images, Animations etc.,",
+      "The Multimedia application highlights the integration of various media formats, such as video, audio, images, and animations. It showcases how these elements are implemented together.",
     link: "https://surendra6.github.io/multimedia/",
     techStack: "Vue.js, Vuetify, HTML, CSS",
     isLive: true,
@@ -10,15 +10,15 @@ const APP_LIST = [
   {
     name: "Blog Posts",
     description:
-      "Blog Posts application showcases the list of blog posts retrieved from an API. Each Blog post has random image, blog posts can be filtered through search box. Git Hub link navigates to the code repository",
+      "Blog posts app leverages the JSONPlaceholder API to display blog posts along with associated comments and user activity. It allows users to explore detailed information about each post and information of the users with geographical data",
     link: "https://surendra6.github.io/blog-posts/",
-    techStack: "ReactJS, Redux, HTML, CSS",
+    techStack: "ReactJS, React Hooks, Tailwind CSS, HTML",
     isLive: true,
   },
   {
     name: "Identify Image",
     description:
-      "Identify Image app displays images and allows the user to identify whether they think these images look real or not. For each image, the user can choose the feature(s) of the image that make it look non-real, and they can generate a report where the images are grouped together by these features.",
+      "The Identify Image app lets users assess whether images look real and select the features that make them seem fake. Users can also generate a report that groups images by these identified features.",
     link: "https://surendra6.github.io/identify-image/",
     techStack: "Vue.js, Vuetify, HTML, CSS",
     isLive: true,
@@ -29,7 +29,7 @@ const APP_LIST = [
       "Calculator application showcases the implementation of calculator useful for mathematical calculations",
     link: "https://surendra6.github.io/calculator-vue/",
     techStack: "React JS, HTML, CSS",
-    isLive: true,
+    isLive: false,
   },
   {
     name: "Charts",

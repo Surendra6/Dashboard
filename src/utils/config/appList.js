@@ -24,6 +24,14 @@ const APP_LIST = [
     isLive: true,
   },
   {
+    name: "Your CV Builder",
+    description:
+      "Your CV Builder app allows users to create professional CVs and cover letters by selecting from a variety of templates. No user data is stored on the app's servers. Instead, all user information is securely saved in the local browser storage, giving users complete control to manage or clear their data anytime.",
+    link: "https://surendra6.github.io/your-cv-builder/",
+    techStack: "ReactJS, React Hooks, Tailwind CSS, HTML",
+    isLive: true,
+  },
+  {
     name: "Calculator",
     description:
       "Calculator application showcases the implementation of calculator useful for mathematical calculations",

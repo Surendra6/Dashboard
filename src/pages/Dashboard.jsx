@@ -9,7 +9,7 @@ const Dashboard = () => {
   useEffect(() => {
     const splashTimeout = setTimeout(() => {
       setShowSplashScreen(false); // Hide the splash screen after 3000ms
-    }, 3000);
+    }, 1500);
     return () => clearTimeout(splashTimeout);
   }, [setShowSplashScreen]);
 

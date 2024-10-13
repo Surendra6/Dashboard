@@ -1,6 +1,7 @@
 import { MdMusicVideo } from "react-icons/md";
 import { BiSolidMessageEdit } from "react-icons/bi";
 import { IoMdImages } from "react-icons/io";
+import { BsPersonLinesFill } from "react-icons/bs";
 
 const Card = ({ title, description, techStack, link }) => {
   return (
@@ -9,6 +10,7 @@ const Card = ({ title, description, techStack, link }) => {
         {title === "Multimedia" && <MdMusicVideo size={70} />}
         {title === "Blog Posts" && <BiSolidMessageEdit size={70} />}
         {title === "Identify Image" && <IoMdImages size={70} />}
+        {title === "Your CV Builder" && <BsPersonLinesFill size={70} />}
 
         <div>
           <h3 className="text-lg font-medium sm:text-xl">

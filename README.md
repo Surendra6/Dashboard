@@ -29,7 +29,7 @@ This is a React Vite Dashboard Application built with Tailwind CSS, which showca
 
 4. **CV Builder**
     - **Description**: Application for building the CV, it's a static application and user data is stored.
-    - **Link**: Not application
+    - **Link**: https://surendra6.github.io/your-cv-builder/
     - **Tech Stack**: ReactJS, React Hooks, Tailwind CSS, HTML
     - **Status**: Upcoming project, In progress
 
